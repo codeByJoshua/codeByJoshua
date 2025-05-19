@@ -7,7 +7,7 @@
 
 ***About me***
 
-I am a graduate in Multiplatform Application Development, currently looking for opportunities in the tech industry. I am expanding my knowledge in both front-end and back-end development. I love to learn and develop ideas that are productive and creative.
+I am a graduate in Multiplatform Application Development, currently looking for opportunities in the tech industry. I am expanding my knowledge in both front-end and back-end development. I love to <br/>learn and develop ideas that are productive and creative.
 
 - 🌱 I’m currently learning ...
   - Angular
