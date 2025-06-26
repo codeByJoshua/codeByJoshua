@@ -11,6 +11,7 @@ I am a graduate in Multiplatform Application Development, currently looking for 
 
 - 🌱 I’m currently learning ...
   - Angular
+  - React
 - 🤝 I’m looking forward to joining a team where I can learn and grow as a developer.
 - ✔ Ask me about anything, I am happy to help
 - Outside tech, 🍳 I love cooking, 👾 playing videogames, 🎵 listening to music, and 🌴 explore nature outdoors.
@@ -43,8 +44,3 @@ I am a graduate in Multiplatform Application Development, currently looking for 
 ## 💻 Profile Stats
 
 <p align="center"><img alt="codeByJoshua's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=codeByJoshua&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="codeByJoshua's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeByJoshua&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></p>
-
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=codeByJoshua&theme=tokyonight" alt="codeByJoshua"/></p>
